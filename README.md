@@ -1,7 +1,20 @@
 # Alocacao-de-funcionarios
 Projeto que visa a designação de membros de uma empresa aos projetos disponíveis
 
+## Contexto
+Falar do trabalho final de disciplina de PO, EQ, contextualizar a modelagem (foto da rede)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/38505459/124338662-95790d00-db7f-11eb-9c5c-5ba292d3df07.png">
+</p>
+## Explicar um pouco mais os dados
 
+## Explicar um pouco mais o modelo
+
+## Explicar um pouco dos resultados
+Todos os caras foram alocados e a satisfação dentro da empresa foi muito boa, somente uma pessoa quis trocar de projeto e achou que foi mal alocada. Falar que tem a Analise de sensibilidade 
+
+## Como reproduzir os resultados?
+vai ter o .dat ali e tem que instalar o ampl e rodar o .run
 
 # Outlier Detection and Smoothing
 
