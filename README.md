@@ -1,7 +1,13 @@
 # Alocacao-em-projetos
-Projeto que visa a designação de membros de uma empresa aos projetos disponíveis
+Projeto que visa a designação de membros de uma empresa aos projetos disponíveis nela.
+
+O código tem como objetivo alocar trabalhadores em determinados projetos de uma empresa real, visando maximizar o sucesso da alocação, medida pela satisfação dos funcionários com a designação. Esse estudo foi entregue como trabalho final da disciplina de Pesquisa Operacional I da Escola de Admininstração da UFRGS. 
+
 
 ## Contexto
+Uma empresa contratou 11 novos funcionários e deseja alocá-los nos 4 projetos da empresa. Para isso, enviou a eles um questionário pedindo suas qualificações em softwares e habilidades. Em seguida, o diretor de projeto gerou a "aptidão" de cada novo empregado a cada projeto a partir de combinações dessas habilidades e softwares, reservadas as particularidades de cada projeto. Portanto, o problema reside em determinar qual a alocação que maiximiza a soma das aptidões individuais dentre todas as possíveis, ilustrada na figura abaixo.
+![image](https://user-images.githubusercontent.com/38505459/182950912-0a88cd1a-0559-4641-ad60-e4063ff09d9d.png)
+
 Falar do trabalho final de disciplina de PO, EQ, contextualizar a modelagem (foto da rede)
 <p align="center">
   <img src="https://user-images.githubusercontent.com/38505459/124338662-95790d00-db7f-11eb-9c5c-5ba292d3df07.png">
