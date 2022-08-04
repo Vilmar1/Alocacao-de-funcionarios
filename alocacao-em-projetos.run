@@ -1,0 +1,13 @@
+reset;
+model trainees_proj.mod;
+data trainees_proj.dat;
+option solver cplex;
+option cplex_options 'sensitivity';
+solve;
+display FO, x;
+print "Analise de sensibilidade";
+
+printf "N       Var     Valor   Custo_Red     Status     Limit.Inf    Limit_Sup	\n";
+display _varname, _var, _var.rc, _var.status, _var.down, _var.up;
+printf "N   Restr.  Var_Folga  Limit_Inf Limit_Sup  P_Sombra   Status \n";
+display _conname, _con.slack, _con.down, _con.up, _con.current, _con.status;
