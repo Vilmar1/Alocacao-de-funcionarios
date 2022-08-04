@@ -41,4 +41,4 @@ Os resultados da alocação podem ser encontrados no [Trabalho PO_2019_2.pdf](ht
 Além disso, dentro da empresa os resultados foram largamente aceitos e houve uma satisfação geral com a implementação dos resultados. Das 10 pessoas que participaram, somente uma delas pediu realocação, que foi atendida pelos superiores.
 
 ## Como reproduzir os resultados?
-Após instalar o AMPL e clonar esse github, basta o usuário rodar o alocacao-em-projetos.run.
+Após instalar o AMPL e clonar esse github, basta o usuário rodar o [alocacao-em-projetos.run](https://github.com/Vilmar1/Alocacao-em-projetos/blob/main/alocacao-em-projetos.run).
